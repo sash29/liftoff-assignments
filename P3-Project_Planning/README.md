@@ -8,7 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+(Include at least 3 wireframes here, adding images or files to your  repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+
+This is a link to my Project Planning files (mockups done in Balsamiq), featuring the webpages for my  app.
+https://www.dropbox.com/sh/pga49yaaqybqo8o/AABM6LglATKAn3zfUdKv0iLka?dl=0
+
 
 ### Project Tracker
 
