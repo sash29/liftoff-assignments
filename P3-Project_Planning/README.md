@@ -8,12 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your  repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-
-This is a link to my Project Planning files (mockups done in Balsamiq), featuring the webpages for my  app.
+This is a link to my wireframes (mockups done in Balsamiq), featuring the webpages for the  app.
 https://www.dropbox.com/sh/pga49yaaqybqo8o/AABM6LglATKAn3zfUdKv0iLka?dl=0
 
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+Link to my user stories backlog for the first 2 weeks sprint:
+https://www.pivotaltracker.com/n/projects/2148334
