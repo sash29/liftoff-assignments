@@ -14,5 +14,5 @@ https://www.dropbox.com/sh/pga49yaaqybqo8o/AABM6LglATKAn3zfUdKv0iLka?dl=0
 
 ### Project Tracker
 
-Link to my user stories backlog for the first 2 weeks sprint:
+Link to my user stories backlog for the first two week-sprint:
 https://www.pivotaltracker.com/n/projects/2148334
