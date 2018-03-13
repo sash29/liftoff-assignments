@@ -13,4 +13,4 @@ https://github.com/sash29
 https://www.linkedin.com/in/shashwati-ghosh-ab830812b/
 
 ### Resume
-file:///C:/Users/sghosh/Desktop/Shashwati%20Ghosh.pdf
+https://drive.google.com/open?id=1hZAOf9swW-SxJxZoC5PQJ0zgABOSVc4z
